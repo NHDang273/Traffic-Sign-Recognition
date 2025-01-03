@@ -1,0 +1,96 @@
+Cấm đi ngược chiều
+Đường cấm
+Cấm ôtô
+Cấm rẽ phải
+Cấm rẽ trái
+Cấm môtô
+Cấm sử dụng còi
+Cấm ôtô tải
+Cấm người đi bộ
+Hạn chế trọng lượng xe
+Hạn chế chiều cao
+Hạn chế chiều ngang
+Cấm quay đầu xe bên trái
+Cấm quay đầu xe bên phải
+Cấm vượt
+Tốc độ cho phép tối đa: 40
+Tốc độ cho phép tối đa: 50
+Tốc độ cho phép tối đa: 60
+Tốc độ cho phép tối đa: 70
+Tốc độ cho phép tối đa: 80
+Cấm dừng và đỗ xe
+Cấm đỗ xe
+Cấm đi thẳng
+Cấm rẽ trái và rẽ phải
+Cấm đi thẳng và rẽ trái
+Cấm rẽ trái và quay đầu
+Cấm đi thẳng và rẽ phải
+Cấm rẽ phải và quay đầu
+Cấm oto khách và oto tải 
+Cấm xe đạp
+Cấm xe thô sơ
+Chỗ ngoặt nguy hiểm
+Chỗ ngoặt nguy hiểm
+Nhiều chỗ ngoặt nguy hiểm
+Nhiều chỗ ngoặt nguy hiểm
+Đường bị thu hẹp
+Đường bị thu hẹp
+Đường bị thu hẹp
+Đường giao nhau
+Đường giao nhau
+Đường giao nhau
+Đường giao nhau
+Đường lồi lõm
+Đường có gồ giảm tốc
+Công trường
+Giao nhau với đường không ưu tiên
+Giao nhau với đường không ưu tiên
+Giao nhau với đường không ưu tiên
+Bắt đầu đường ưu tiên
+Giao nhau với đường ưu tiên
+Đường người đi bộ cắt ngang
+Trẻ em
+Đi chậm
+Đường hay xảy ra tai nạn
+Đường đôi
+Hết đường đôi
+Giao nhau với tín hiệu đèn
+Dừng lại
+Các xe chỉ được đi thẳng
+Các xe chỉ được rẽ phải
+Các xe chỉ được rẽ trái
+Các xe chỉ được rẽ trái hoặc phải
+Đi vòng sang phải chướng ngại vật
+Đi vòng sang trái chướng ngại vật
+Nơi giao nhau chạy theo vòng xuyến
+Đường giành cho người đi bộ
+Tốc độ tối thiểu cho phép
+Khu vực được phép quay đầu
+Khu vực được phép quay đầu
+Bắt đầu khu đông dân cư
+Hết khu đông dân cư
+Khu vực chợ gần đường
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
